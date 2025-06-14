@@ -1,0 +1,9 @@
+{
+  "name": "launchdock",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "services/*",
+    "prisma"
+  ]
+}
