@@ -75,3 +75,4 @@ prisma/migrations/
 
 # Package Lock File
 package-lock.json 
+/generated/prisma
